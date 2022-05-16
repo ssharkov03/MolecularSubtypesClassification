@@ -1,0 +1,5 @@
+name,model_type,metric_type,metric_value,train_time
+1_Default_LightGBM,LightGBM,logloss,0.46257387070070144,3582.49
+11_LightGBM,LightGBM,logloss,0.3571704271429423,2747.43
+12_LightGBM,LightGBM,logloss,0.3399181403773503,2619.86
+Ensemble,Ensemble,logloss,0.3399181403773503,0.15
