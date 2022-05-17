@@ -1,0 +1,11 @@
+joblib
+mljar-supervised
+aiogram==2.14.3
+asyncio
+cloudpickle
+numpy
+scikit-learn
+pandas
+python-dotenv
+
+
